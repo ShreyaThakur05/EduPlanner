@@ -128,34 +128,6 @@ serve -s build
 - Real-time synchronization across all components
 - Automatic save on all create/update/delete operations
 
-## 🧪 Testing
-
-```bash
-# Run React tests
-npm test
-
-# Run tests in watch mode
-npm test -- --watch
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Documentation**: Check the `/docs` folder for detailed guides
-- **Issues**: Report bugs via GitHub Issues
-- **Email**: support@eduplannerPro.com
-- **Discord**: Join our community server
 
 ## 🗺️ Current Features Status
 
@@ -172,13 +144,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Responsive design with gradients
 - [x] Full CRUD operations for all items
 
-### 🚀 Future Enhancements
-- [ ] Backend API integration
-- [ ] Cloud data synchronization
-- [ ] Advanced analytics and reporting
-- [ ] Calendar integration
-- [ ] Mobile app version
-- [ ] Collaborative features
 
 ## 📈 Performance
 
@@ -188,13 +153,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Responsive Design**: Optimized for all device sizes
 - **Local Processing**: No server dependencies for core functionality
 
-## 🌟 Acknowledgments
-
-- Icons by [Heroicons](https://heroicons.com/)
-- UI Components inspired by [Tailwind UI](https://tailwindui.com/)
-- Charts powered by [Chart.js](https://www.chartjs.org/)
-- Email templates by [MJML](https://mjml.io/)
-
----
-
-**Made with ❤️ for students worldwide**
